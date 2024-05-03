@@ -14,6 +14,7 @@
 <p align=center><img width="400px" src="https://cdn.dribbble.com/users/46123/screenshots/6135335/ai-sun-type.gif"></p>
 
 <div align = "center"><img align="center" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
+<br>
 
 <p align="center"><a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=DipakAgarwal0703"/></a></p>
 
