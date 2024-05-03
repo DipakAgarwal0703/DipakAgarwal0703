@@ -4,7 +4,7 @@
    I am very glad you are here. </h1>
    
 <pre>  
-   A Dynamic and results-oriented Python develope 🏠 &nbsp; Living: Siliguri, West Bengal, India
+   A Dynamic and results-oriented Python develope 🏠 &nbsp;Living: Siliguri, West Bengal, India
 
 
 </pre> 
@@ -21,10 +21,10 @@
 
 <h3 align="center">Connect with me :</h3>
 <p align=center>
-<a target="_blank" href="hhttps://www.linkedin.com/in/dipak-agarwal-26812b248/"><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/></a>
+<a target="_blank" href="hhttps://www.linkedin.com/in/dipak-agarwal-26812b248/"><img width="40px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
 <a target="_blank" href="hhttps://www.facebook.com/dipak.agarwal.3954546"><img width="40px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a>
-<a target="_blank" href="https://www.instagram.com/the_dipak_agarwal_"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+<a href="https://www.instagram.com/the_dipak_agarwal_" target="_blank"><img width="40px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
 <!-- <a target="_blank" href="https://www.kaggle.com/pankajkumarbarman"><img width="40px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg"/></a> -->
-<a target="_blank" href="https://x.com/Dipak_0703"><img width="40px" src="https://icon-icons.com/icon/twitter-x-new-logo-x-rounded/256078"/></a>
+<a target="_blank" href="https://x.com/Dipak_0703"><img width="40px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg"/></a>
   </p>
 
