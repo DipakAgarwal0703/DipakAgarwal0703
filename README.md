@@ -50,6 +50,11 @@
 </br>
 <!-- Contact me section ends here  -->
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DipakAgarwal0703&show_icons=true&locale=en&layout=compact" alt="DipakAgarwal0703" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DipakAgarwal0703&show_icons=true&locale=en" alt="iDipakAgarwal0703" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DipakAgarwal0703&" alt="DipakAgarwal0703" /></p>
 
 <u><h2 align=center>My featured Respositories</h2></u>
 
@@ -69,3 +74,4 @@
 <a href="https://github.com/DipakAgarwal0703/JARVIS">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=DipakAgarwal0703&repo=JARVIS" />
 </a>
+
