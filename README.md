@@ -58,11 +58,11 @@
 
 <u><h2 align=center>My featured Respositories</h2></u>
 
-
+<!--
 <p align=center><a href="https://github.com/DipakAgarwal0703/Sentimental-Analysis">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=DipakAgarwal0703&repo=Sentimental-Analysis" />
 </a>
-
+-->
 
 <a href="https://github.com/DipakAgarwal0703/MSFT-Stock-Price-Prediction">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=DipakAgarwal0703&repo=MSFT-Stock-Price-Prediction" />
